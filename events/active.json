@@ -1,0 +1,59 @@
+{
+  "slug": "alpha-treat-caterers-edakkunnu",
+  "name": "Alpha Treat Caterers",
+  "shortName": "Alpha Treat",
+  "descriptor": "Catering Services",
+  "address": "7C34+63J, Edakkunnu - Attara Rd, Attara, Edakkunnu, Angamaly, Keralam 683577",
+  "area": "Attara",
+  "city": "Edakkunnu",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683577",
+  "geo": {
+    "lat": 10.253235199999999,
+    "lng": 76.4063111
+  },
+  "mapsLink": "https://maps.google.com/?cid=13891615390241701759",
+  "phone": "+91 99472 62164",
+  "whatsapp": "919947262164",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 33,
+  "reviews": [
+    {
+      "name": "D MEDIA PHOTOGRAPHY & EVENTS",
+      "rating": 5,
+      "quote": "I have had food at 3 functions from Alpha Treat caterers and the food I have had everywhere was very tasty. The service and presentation was good. Alpha Treat's kitchen is very clean compared to other companies. So I recommend Alpha Treat."
+    },
+    {
+      "name": "Ankith Bhaskar",
+      "rating": 5,
+      "quote": "You guys made my day more memorable with your excellent setups,good service and tasty food which was actually exceeding my expectations. Thank you and your company will be always my first priority."
+    },
+    {
+      "name": "Midhun Paul",
+      "rating": 5,
+      "quote": "Excellent service and awesome, tasty food. They made our housewarming day very memorable."
+    },
+    {
+      "name": "mangaly buildware",
+      "rating": 5,
+      "quote": "Super food and very good service"
+    },
+    {
+      "name": "Arun Varghese Menachery",
+      "rating": 5,
+      "quote": "I'm absolutely satisfied with the taste,quality and the service too. Highly recommended."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://alpha-treat-caterers-edakkunnu.vercel.app"
+}
